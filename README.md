@@ -7,4 +7,4 @@ El script inplementa la suma de dos numeros y realiza la validacion de los opera
   
 [Repositorio GitHub](https://github.com/KeenGL/operacion_suma.git)
   
-![ImagenItachi](https://images.app.goo.gl/qhNqPQtfUp4y593EA)
+[ImagenItachi](https://images.app.goo.gl/qhNqPQtfUp4y593EA)
